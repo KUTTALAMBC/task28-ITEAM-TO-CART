@@ -7,7 +7,7 @@ import Card from './Card';
 import Cart from './Cart';
 function App() {
 
-  const [value,setValue]=useState([
+  const [value]=useState([
     {
       no:1,
       title:"Tesla Cyber Truck",
